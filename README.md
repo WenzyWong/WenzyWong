@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Wenzy, a Ph.D. student at Fundan University. 
+This is Wenzy, a Ph.D. candidate at Fundan University. 
 
-- 🧬 Research keywords: Bioinformatics; Cancer; Microbiome.
+- 🧬 Research keywords: bioinformatics; tumour-associated microbiome.
 
 - ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence! 
 
