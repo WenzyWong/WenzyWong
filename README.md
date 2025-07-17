@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Wenzy, a Ph.D. student at Fundan University. 
 
-- 🔭 My current research keywords: Bioinformatics; Cancer; Microbiome.
+- 🧬 Research keywords: Bioinformatics; Cancer; Microbiome.
 
 - ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence! 
 
