@@ -19,13 +19,13 @@ This is Wenzy, a Ph.D. student at Fundan University.
 
 - 🔭 My current research keywords: Bioinformatics; Cancer; Microbiome.
 
-- ♾️ Interdisciplinary research always attracts me. Synthesising and connecting ideas is truly a fascinating act of creative intelligence! 
+- ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence! 
 
-- 💭 You may find all sorts of my scattered thoughts about research on my [blog](https://wenzywong.blog/). 
+- 💭 You may find all sorts of my scattered thoughts about research on my [website](https://wenzywong.blog/). 
 
 - 📇 I'm seeking PhD exchange opportunities and future postdoctoral positions.
 
-- ⚡ Fun fact: I have a pet MBK snake 🐍 named Hematite!
+- ⚡ Fun fact: I have a pet MBK snake 🐍 named Hematite.
 
 ![Streak](https://streak-stats.demolab.com/?user=WenzyWong&theme=gotham&card_width=683&card_height=190&border=000000)
 
