@@ -23,6 +23,4 @@ This is Wenzy, a Ph.D. student at Fundan University.
 
 - 📇 I'm seeking PhD exchange opportunities and future postdoctoral positions.
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WenzyWong&theme=gotham)
-
-![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=gotham) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenzyWong&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WenzyWong&theme=gotham) ![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=gotham)
