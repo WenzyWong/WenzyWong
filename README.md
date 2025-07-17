@@ -29,4 +29,4 @@ This is Wenzy, a Ph.D. student at Fundan University.
 
 ![Streak](https://streak-stats.demolab.com/?user=WenzyWong&theme=gotham&card_width=683&card_height=190&border=000000)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WenzyWong&theme=gotham) ![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=gotham)
+![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=gotham) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenzyWong&theme=gotham&utcOffset=8)
