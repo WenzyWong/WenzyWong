@@ -25,7 +25,7 @@ This is Wenzy, a Ph.D. candidate at Fundan University.
 
 - 📇 I'm seeking PhD exchange opportunities and future postdoctoral positions.
 
-- ⚡ Fun fact: I have a pet MBK snake 🐍 named Hematite.
+- ⚡ Fun fact: I have a Mexican black kingsnake 🐍 named Hematite.
 
 ![Streak](https://streak-stats.demolab.com/?user=WenzyWong&theme=gotham&card_width=683&card_height=190&border=000000)
 
