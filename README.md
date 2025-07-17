@@ -21,11 +21,11 @@ Pronouns: they/them.
 
 My current research keywords: Bioinformatics; Cancer Research; Microbiome.
 
-There’s something about interdisciplinary research that always pulls me in. Synthesising and connecting ideas is truly a fascinating act of creative intelligence. I’ve always had a deep love for nature, and I really enjoy hiking. Maybe one day I’ll even find myself working on something related to ecology — who knows.
+There’s something about interdisciplinary research that always pulls me in. Synthesising and connecting ideas is truly a fascinating act of creative intelligence. 
 
 Lately, I’ve been hoping to improve my ability to understand and refine algorithms, as I don’t want to just be a machine that runs omics analyses.
 
-I have all sorts of scattered thoughts about research itself. Check my blog for more details: [Wenzy Wong - Blog](https://wenzywong.blog/) 💭.
+You can find all sorts of my scattered thoughts about research. Check my blog for more details: [Wenzy Wong - Blog](https://wenzywong.blog/) 💭. Since I’m such a nature lover (I’m keen on hiking), I might well move into ecology research later on — who knows?
 
 I'm seeking exchange opportunities during my doctoral studies, and also starting to think about postdoc positions down the line.
 
