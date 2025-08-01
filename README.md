@@ -21,7 +21,7 @@ This is Wenzy, a Ph.D. candidate at Fundan University.
 
 - ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence! 
 
-- 💭 You may find all sorts of my scattered thoughts about research on my [website](https://wenzywong.blog/). 
+- 💭 You may find all sorts of my scattered thoughts about research on my [website](https://wenzywong.github.io/). 
 
 - 📇 I'm seeking PhD exchange opportunities and future postdoctoral positions.
 
