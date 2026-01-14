@@ -19,7 +19,9 @@ This is Wenzy, a Ph.D. candidate at Fundan University.
 
 - 🧬 Research keywords: bioinformatics; tumour-associated microbiome; epigenetics.
 
-- ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence! 
+- ♾️ Interdisciplinary research always attracts me. Connecting ideas is a fascinating act of creative intelligence!
+
+- 🌿 Ecology intrigues me, though I haven't yet committed research time to it.
 
 - 💭 You may find all sorts of my scattered thoughts about research on my [website](https://wenzywong.github.io/). 
 
