@@ -23,7 +23,7 @@ This is Wenzy, a Ph.D. candidate at Fundan University.
 
 - 🌿 Ecology intrigues me, though I haven't yet committed research time to it.
 
-- 💭 You may find all sorts of my scattered thoughts about research on my [website](https://wenzywong.github.io/). 
+- 💭 You may find all sorts of my scattered thoughts about research on my [website](www.wenzywong.blog). 
 
 - 📇 I'm seeking PhD exchange opportunities and future postdoctoral positions.
 
