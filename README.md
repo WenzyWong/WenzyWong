@@ -29,6 +29,6 @@ This is Wenzy, a Ph.D. candidate at Fundan University.
 
 - ⚡ Fun fact: I have a Mexican black kingsnake 🐍 named Hematite.
 
-![Streak](https://streak-stats.demolab.com/?user=WenzyWong&theme=gotham&card_width=683&card_height=190&border=000000)
+![Streak](https://streak-stats.demolab.com/?user=WenzyWong&theme=vue&card_width=683&card_height=190&border=000000)
 
-![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=gotham) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenzyWong&theme=gotham&utcOffset=8)
+![Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WenzyWong&theme=vue) ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WenzyWong&theme=vue&utcOffset=8)
